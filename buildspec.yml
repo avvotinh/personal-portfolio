@@ -8,7 +8,6 @@ phases:
     runtime-versions:
       nodejs: 10
   build:
-    run-as: Ubuntu
     commands:
       - echo Nothing to do yet
 artifacts:
